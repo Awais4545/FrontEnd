@@ -1,0 +1,33 @@
+* {
+    border: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+.mainContainer{
+    /* background-color: black; */
+
+    background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    height: 100vh;
+}
+
+
+.divup {
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: -8px -8px 30px black;
+    background-color: #dde0d7
+}
+
+.btnStyle {
+    width: 80%;
+    border: 1px solid #dde0d7;
+    box-shadow: 5px 5px 5px;
+    border-radius: 40px;
+
+}
+
+.textStyle {
+    font-size: 14px;
+}
